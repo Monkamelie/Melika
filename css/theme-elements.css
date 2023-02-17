@@ -14115,14 +14115,14 @@ html.boxed .nav-secondary.sticky-active {
 /* Scroll to Top */
 html .scroll-to-top {
 	transition: opacity 0.3s;
-	background: #404040;
-	border-radius: 4px 4px 0 0;
+	background: #ce8d99f7;
+	border-radius: 30px 5px 0 0;
 	bottom: 0;
 	color: #FFF;
 	display: block;
 	height: 9px;
 	opacity: 0;
-	padding: 10px 10px 35px;
+	padding: 10px 10px 80px;
 	position: fixed;
 	right: 10px;
 	text-align: center;
