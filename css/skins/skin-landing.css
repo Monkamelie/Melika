@@ -24,11 +24,11 @@ a:hover {
 }
 
 a:focus {
-	color: #0099e6;
+	color: #e60000;
 }
 
 a:active {
-	color: #0077b3;
+	color: #ffffff;
 }
 
 html .text-color-primary,
