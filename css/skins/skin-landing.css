@@ -4735,7 +4735,7 @@ html[dir="rtl"] #header .tip-light:before {
 	}
 
 	#header .header-nav.header-nav-line nav > ul li:hover > a:before {
-		background: #0088cc;
+		background: #CE8D99;
 	}
 
 	#header .header-nav.header-nav-line nav > ul:not(:hover) li > a.active {
