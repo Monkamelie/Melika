@@ -3652,7 +3652,7 @@ html.sticky-header-active .hamburguer-btn.hamburguer-btn-sticky-dark .close span
 	content: "\f053";
 	position: relative;
 	left: -1px;
-	top: -1px;
+	top: -22.5px;
 }
 
 .owl-carousel .owl-nav button.owl-next {
@@ -3667,7 +3667,7 @@ html.sticky-header-active .hamburguer-btn.hamburguer-btn-sticky-dark .close span
 	content: "\f054";
 	position: relative;
 	left: 1px;
-	top: -1px;
+	top: -22.5px;
 }
 
 .owl-carousel.stage-margin .owl-stage-outer {
